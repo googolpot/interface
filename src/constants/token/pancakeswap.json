@@ -11,6 +11,46 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "BUSD veri",
+      "symbol": "BUSD",
+      "address": "0x0F99E13884D3516001c3deff2fC48E2Ae9DF7A5F",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
+      "name": "MILKYSWAP",
+      "symbol": "MINKY",
+      "address": "0x6562BF7d4898A4CFCc5Bdc39a9045fc81Ee920a8",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
+      "name": "SYSSSTEM",
+      "symbol": "SYS",
+      "address": "0xe6fB1d68dca0A4996C484Ed7541B65B682792f54",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
+      "name": "googolPOT",
+      "symbol": "POT",
+      "address": "0x9faDe4B80a05a8d49f6f8852E1Bd6Ff2edf259Ca",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
+      "name": "WBNB Token NEW",
+      "symbol": "WBNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
