@@ -1816,6 +1816,18 @@
     "@ethersproject/properties" "^5.0.7"
     "@ethersproject/strings" "^5.0.8"
 
+"@googolpot/sdk@https://github.com/googolpot/sdk/archive/refs/heads/main.tar.gz":
+  version "1.0.1"
+  resolved "https://github.com/googolpot/sdk/archive/refs/heads/main.tar.gz#9be6e08ed067c32c1a108aea20e3eb8035c71a53"
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
