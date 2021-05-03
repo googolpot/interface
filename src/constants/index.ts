@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@googolpot/sdk'
 
-export const ROUTER_ADDRESS = '0x3CA35016B80f63FA590362f5A8Eb637908C0E179'
+export const ROUTER_ADDRESS = '0x4d58481F57B5Aae9c6ff2C7d9654eD1e77B5Eb9c'
 
 // a list of tokens by chain
 type ChainTokenList = {
